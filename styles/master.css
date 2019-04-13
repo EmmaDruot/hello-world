@@ -1,0 +1,21 @@
+body {
+    font-family: 'Noto Serif', serif;
+    background: url('https://images.unsplash.com/photo-1530631383307-4a02169e6133?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80') no-repeat fixed center;
+    background-size: cover;
+    color: #000;
+}
+
+h1 {
+    color: red;
+}
+a {
+    color: darkgreen;
+    text-decoration: none;
+}
+a:hover {
+    color: greenyellow
+}
+
+section {
+    background: rgba(255,255,255, 0.2)
+}
